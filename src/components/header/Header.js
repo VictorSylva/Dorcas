@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-
 import './header.css';
 
 const Header = () => {
@@ -55,7 +54,7 @@ const Header = () => {
                         : "nav_link"
                     }
                     >
-                        <i className='uil uil-briefcase-alt nav_icon'></i> Accomplishment
+                        <i className='uil uil-briefcase-alt nav_icon'></i> Accomplishment 
                         
                     </a>
                 </li>
@@ -66,7 +65,7 @@ const Header = () => {
                         : "nav_link"
                     }
                     >
-                        <i className='uil uil-briefcase-alt nav_icon'></i> Qualification
+                        <i className='uil uil-briefcase-alt nav_icon'></i> Qualification 
                         
                     </a>
                 </li>
@@ -77,7 +76,7 @@ const Header = () => {
                         : "nav_link"
                     }
                     >
-                        <i className='uil uil-briefcase-alt nav_icon'></i> Extras
+                        <i className='uil uil-briefcase-alt nav_icon'></i> Extras 
                         
                     </a>
                 </li>

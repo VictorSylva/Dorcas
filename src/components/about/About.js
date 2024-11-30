@@ -22,7 +22,6 @@ const About = () => {
           I've honed a diverse skill set in performance management systems, code of ethics implementation, production/operations management, and human resources.
            My commitment to fostering efficient operations and maintaining high ethical standards has been integral to my success in navigating complex governmental environments.
 Driven by a passion for constant growth and skill enhancement, I am now seeking opportunities to leverage my expertise on a global scale.
- 
           </p>
 
           <a download='' href={CV} className='button
