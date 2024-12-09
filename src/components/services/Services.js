@@ -19,7 +19,7 @@ const Services = () => {
       <div className='services_content'>
         <div>
           <i className='uil uil-arrow services_icon'></i>
-          <h3 className='services_title'>Positions <br /> Held </h3>
+          <h3 className='services_title'>Positions<br /> Held </h3>
         </div>
 
         <span className='services_button' onClick={() =>
