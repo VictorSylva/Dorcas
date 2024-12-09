@@ -12,14 +12,14 @@ const Services = () => {
   return (
     <section className='services section' id='services'>
     <h2 className='section__title'>Accomplishments </h2>
-    <span className='section__subtitle'>What was accomplished</span>
+    <span className='section__subtitle'>What was accomplished </span>
 
     <div className='services_container container grid'>
 
       <div className='services_content'>
         <div>
           <i className='uil uil-arrow services_icon'></i>
-          <h3 className='services_title'>Positions <br /> Held</h3>
+          <h3 className='services_title'>Positions <br /> Held </h3>
         </div>
 
         <span className='services_button' onClick={() =>
