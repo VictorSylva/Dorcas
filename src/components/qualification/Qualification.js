@@ -81,7 +81,7 @@ const Qualification = () => {
                             <h3 className='qualification_title'>National Diploma: Business Studies</h3>
                             <span 
                             className='qualification_subtitle'>
-                            KADUNA POLYTECHNIC, KADUNA STATE
+                            KADUNA POLYTECHNIC, KADUNA STATE 
                              </span>
                                 <div className='qualification_calendar'>
                                     <i className='uil uil-calendar-alt'>

@@ -34,7 +34,7 @@ const Services = () => {
             <i onClick={() => toggleTab(0)} className='uil uil-times
             services_modal-close'></i>
 
-            <h3 className='services_modal-title'>Positions Held</h3>
+            <h3 className='services_modal-title'>Positions Held </h3>
             <p className='services_modal-description'></p>
 
             <ul className='services_modal-services grid'>
@@ -74,7 +74,7 @@ const Services = () => {
                 <p className='services_modal-info'>
                 Assistant Executive Officer, Store Unit, FEDERAL MINISTRY OF SPECIAL DUTIES
                 AND INTERGOVERNMENTAL AFFAIRS, ABUJA. 
-                2019-2021
+                2019-2021 
                 </p>
               </li>
 
